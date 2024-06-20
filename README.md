@@ -1,5 +1,7 @@
 # Wind-Instrument
 QMUL University Assessment IDMT Final Project
+
+
 For this assessment, we were tasked with designing and creating a digital musical instrument, and then performing with it at a Queen Mary University organised show.
 
 The inspiration for this project came from Zelda: Ocarina of Time, and noticing that no one (from what we had seen) had previously attempted a wind-based project in this module.
