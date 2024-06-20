@@ -15,6 +15,15 @@ The instrument is powered by an Arduino, which connects to a computer via cable.
 YouTube: https://youtu.be/y2m41MNzpSE
 
 
+
+
 <img width="192" alt="Image of project" src="https://github.com/Bastow2000/Wind-Instrument/assets/77554338/70402f64-5328-4bab-ac2f-6e177f7e9c54">
 
 <img width="643" alt="Electronics" src="https://github.com/Bastow2000/Wind-Instrument/assets/77554338/f20943ba-9eca-49e7-b77b-d4c33a81efd2">
+
+Credit to:
+toneparticle (2022)
+https://www.youtube.com/watch?v=VU2TQmxte9A&t=1821s
+(For granular synthesiser section)
+NOUSERID (2020) https://cycling74.com/forums/simple-reverb
+(For Reverb)
